@@ -1,0 +1,7 @@
+{
+  "name": "lunch_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
